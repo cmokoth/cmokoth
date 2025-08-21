@@ -7,7 +7,7 @@ I'm currently on the market for work after [layoffs at Cisco 😢](https://futur
 - Excited to learn
 - Security focused
 
-send me an email at [christianokoth](mailto:christianokoth@duck.com)
+send me an email at [christianokoth@duck.com](mailto:christianokoth@duck.com)
 
 Christian's Quick Facts!
 - 🔭 I’m currently working on finding a great team to continue my engineering journey
