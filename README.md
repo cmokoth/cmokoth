@@ -14,8 +14,7 @@ Christian's Quick Facts!
 - 🌱 I’m currently learning about SQL scripts
 - 👯 I’m looking to collaborate on any gaming or AI projects
 - 🤔 I’m looking for help with integrating AI into my developer workflows
-- 💬 Ask me about my favorite statistical distributions
-- 📫 How to reach me: Email firstname lastname AT duck DOT com (yes! 🦆)
+- 💬 Ask me about my favorite statistical distributions and technologies
 - ⚡ Fun fact: I love to line dance and watching college women's sports 🏀  
 
 
